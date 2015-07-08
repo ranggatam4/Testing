@@ -3,7 +3,8 @@
   echo "2";
   echo "3";
   echo "4";
-  echo "5";
+// Fajar edit baris 5
+  echo "5-new";
   echo "6";
   echo "7";
   echo "8";
